@@ -23,9 +23,3 @@ Corporate Governance · Corporate Finance · Financial Regulation · Shareholder
 ## Tools I Use
 
 `Python` · `Stata` · `MATLAB` · `transformers` / `PyTorch` · `Git`
-
----
-
-## Stats
-
-![Cunhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=paddie-web&show_icons=true&theme=default)
