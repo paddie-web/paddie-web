@@ -1,5 +1,7 @@
 # Cunhan Guo
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Finance+Master+Student+at+Renmin+University+of+China;Corporate+Governance+Researcher;Text-as-Data+in+Empirical+Finance&color=333333&width=620&height=45)](https://git.io/typing-svg)
+
 **Finance master's student at Renmin University of China** · aspiring researcher in corporate finance and governance.
 
 I study corporate finance and governance through the interaction of firms, shareholders, and the regulatory environment — combining economic reasoning with text data, large archival datasets, and computational methods.
@@ -22,4 +24,10 @@ Corporate Governance · Corporate Finance · Financial Regulation · Shareholder
 
 ## Tools I Use
 
-`Python` · `Stata` · `MATLAB` · `transformers` / `PyTorch` · `Git`
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,git,github)](https://skillicons.dev)
+
+---
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=paddie-web&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
