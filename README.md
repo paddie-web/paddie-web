@@ -1,14 +1,14 @@
 # Cunhan Guo
 
-**Finance master's student at Renmin University of China** · aspiring researcher in corporate finance and governance.
+**Finance master's student at Renmin University of China** · aspiring researcher in applied microeconomics, with a focus on corporate finance, regulation, and text-as-data.
 
-I study corporate finance and governance through the interaction of firms, shareholders, and the regulatory environment — combining economic reasoning with text data, large archival datasets, and computational methods.
+I study how firms, shareholders, and regulatory institutions interact — combining applied microeconomic reasoning with text data, large archival datasets, and computational methods.
 
 ---
 
 ## Research Interests
 
-Corporate Governance · Corporate Finance · Financial Regulation · Shareholder Activism · Political Economy · Text-as-Data
+Applied Microeconomics · Corporate Finance and Governance · Financial Regulation · Political Economy · Text-as-Data
 
 ## Selected Work
 
