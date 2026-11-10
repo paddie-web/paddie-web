@@ -1,14 +1,14 @@
 # Cunhan Guo
 
-**Finance master's student at Renmin University of China** · aspiring empirical accounting researcher, with a focus on corporate disclosure, financial reporting, and regulation.
+**Finance master's student at Renmin University of China** · aspiring empirical researcher, with a focus on corporate disclosure, corporate governance, and regulation.
 
-I study how firms, shareholders, and regulatory institutions interact, working with text data, large archival datasets, and computational methods.
+I study how firms, shareholders, and regulatory institutions interact, combining large archival datasets with text analysis and machine learning.
 
 ---
 
 ## Research Interests
 
-Corporate Disclosure · Financial Reporting · Institutions, Regulation, and Firm Behavior · Capital Markets
+Corporate Disclosure · Corporate Governance · Corporate Finance · Institutions, Regulation, and Firm Behavior · Machine Learning and Text-based Measurement
 
 ## Selected Work
 
